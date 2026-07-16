@@ -1,0 +1,18 @@
+{
+  "name": "Serum78 — Serum Wajah Glowing",
+  "short_name": "Serum78",
+  "description": "Serum wajah premium Indonesia, terdaftar BPOM & Halal. Glowing dimulai dari sini.",
+  "lang": "id",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF6EF",
+  "theme_color": "#1F3A32",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
