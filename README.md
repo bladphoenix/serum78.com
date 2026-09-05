@@ -37,7 +37,7 @@ Semua di bawah ini masih memakai **data placeholder** — ganti dengan data asli
 > 💡 Cara cepat ganti nomor WA: buka `index.html`, cari-ganti (Ctrl+H) semua `6281234567890` → nomormu (format internasional tanpa `+`, mis. `628123456789`). Lalu ganti juga `WA_NUMBER` di `js/main.js`.
 
 ## 🏷️ Bar "Website Dijual"
-Di paling atas halaman ada bar hitam bertuliskan **"Website ini DIJUAL"** dengan kontak WhatsApp (`wa.me/6287821381136`) dan Telegram (`t.me/+6287821381136`). **Setelah website terjual / tidak dijual lagi, hapus bar ini:**
+Di paling atas halaman ada bar hitam bertuliskan **"Website ini DIJUAL"** dengan kontak WhatsApp (`wa.me/62859191749378`) dan Telegram (`t.me/+6287821381136`). **Setelah website terjual / tidak dijual lagi, hapus bar ini:**
 - Di `index.html`: hapus blok `<!-- ===== Website For Sale notice ===== -->` … `</div>` (tepat sebelum `<!-- ===== Announcement ===== -->`).
 - (Opsional) Di `css/style.css`: hapus blok `.for-sale { … }` di bawah komentar `/* Website For Sale bar */`.
 
